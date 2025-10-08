@@ -1,5 +1,7 @@
 GitHub link:https://github.com/Laman1911/touristguide-del2.git
 Azure link: https://<touristguide>.azurewebsites.net/api/attractions 
+API: http://localhost:8080/api/attractions
+
 repo: turistguide/
 ├─ src/
 │  ├─ main/java/org/example/touristguide/
