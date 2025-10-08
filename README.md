@@ -1,4 +1,4 @@
-GitHub link:
+GitHub link:https://github.com/Laman1911/touristguide-del2.git
 Azure link: https://<touristguide>.azurewebsites.net/api/attractions 
 repo: turistguide/
 ├─ src/
